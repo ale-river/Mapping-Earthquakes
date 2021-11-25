@@ -46,6 +46,6 @@ The progression of the branches or environments where the data is called through
 ![Branch](Resources/Earthquake_Challenge.png)
 
 ## ***Summary :globe_with_meridians:
-The challenge of the projects reflects layes of tectonic plates added to the map. Additionally, using knowledge of JavaScript, `Leaflet.js`, and geoJSON data. It adds major earthquake data to the map using `d3.json()`. 
-It is added color and set the radius of the circle markers based on the magnitude of earthquake, and added a popup marker for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, `geoJSON()`.
+The challenge of the project reflects layes of tectonic plates added to the map. Additionally, using knowledge of JavaScript, `Leaflet.js`, and geoJSON data, it adds major earthquake data to the map using `d3.json()`. 
+Also, it is added color and set the radius of the circle markers based on the magnitude of earthquake, and added a popup marker for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, `geoJSON()`.
 
